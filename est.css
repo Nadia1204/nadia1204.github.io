@@ -1,0 +1,59 @@
+#site{
+    width=1300px;
+    height=3100px;
+     margin-top:0;
+      margin-left:auto;
+      margin-bottom:0;
+      margin-right:auto;
+    background color:beige;
+}
+#header{
+  width:1300px;
+      height:200px;
+      margin-top:0;
+      margin-left:auto;
+      margin-bottom:0;
+      margin-right:auto;
+    font-size:35px;
+      background-color:#E4A395;
+    text-align:center;
+    font-family:Century Gothic;
+}
+#cuerpo-left{
+    width:350px;
+    height:2800px;
+    float:left;
+        margin-top:0;
+    margin-left:240px;
+        margin-right:0;
+    font-size:18px;
+    font-family:Century Gothic;
+        background-color:#E6E6FA;
+}
+
+#cuerpo-right{
+    width:760px;
+    height:2600px;
+    float:left;
+    margin-top:50px;
+    margin-left:100px;
+    margin-right:90px;
+    background-color: white;
+    font-family:Century Gothic;
+    text-align: justify;
+    font-size:16px;
+    line-height:32px;   
+}
+
+#footer{
+     width:1300px;
+      height:150px;
+    margin-top:2800px;
+      margin-left:auto;
+      margin-bottom:0;
+      margin-right:auto;
+    font-size:16px;
+      background-color:#E4A395;
+    text-align:center;
+    font-family:Century Gothic;
+}
